@@ -1,13 +1,10 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Login from "@/pages/Login";
+//https://themesbrand.com/chatvia-tailwind/layouts/index.html#first fazer
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/login" element={<Login />} />
-      </Routes>
-    </Router>
+   <div>
+    <p>ok</p>
+   </div>
   );
 }
 
